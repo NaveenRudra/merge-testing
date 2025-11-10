@@ -1,0 +1,7 @@
+This branch is 2 commits ahead of and 1 commit behind main. squash
+
+When we merge all commits are carried and we will have only one dev will be begind can be fixed using below code:
+git checkout dev
+git fetch origin
+git merge origin/main
+git push origin dev
