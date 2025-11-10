@@ -17,6 +17,5 @@ naveen
 #merge 2
 
 #rebase 1
-#rebase 2
 
-#command termina merge1
+#now merge and test
