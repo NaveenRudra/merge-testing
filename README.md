@@ -12,3 +12,5 @@ naveen
 
 #squash 1
 #squash 2
+
+#merge 1
